@@ -1,0 +1,4 @@
+Why do we initialize a git repository? It is important so that we can store the
+meta-data about the history of the directory. The git commit command initializes
+the repository in the directory of interest. We can take a look at the repository
+using the 'ls -a' command in the terminal  
