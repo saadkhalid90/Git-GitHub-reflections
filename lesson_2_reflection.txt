@@ -6,3 +6,8 @@ commit within a repository. So we can choose ourselves which changes we have
 made need to be committed
 
 Make a random change to test commit
+
+Staging area can be used to stage only the changes we want to commit even if we 
+have made more than one change in different files within our working directory. 
+So, this can help us make one commit per logical change
+
