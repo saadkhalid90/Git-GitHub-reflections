@@ -1,2 +1,8 @@
 We initialize a git repository so that we can track the changes made to the set
-of files within the directory. 
+of files within the directory.
+
+Staging area gives slightly more control over what files/ changes we need to
+commit within a repository. So we can choose ourselves which changes we have
+made need to be committed
+
+Make a random change to test commit
