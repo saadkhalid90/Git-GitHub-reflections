@@ -1,0 +1,34 @@
+We have seen how the diff command in mac/ linux terminal can help us compare
+specific differences (and hence identify bugs) between different versions of
+code over time. But it can also be seen that it is crucial for us to save our
+different versions code as different files over time for this approach to work.
+
+As a programmer, I may make certain changes to my code that I want to revert
+in the future (either because the newer version is buggy or the older version
+is preferred over the newer one). In such a case, a programmer may find it
+useful to have access to the older versions of the code either for debugging
+purposes or for reverting back to an older preferred version.
+
+Manual vs automatic commits:
+Automatic commits may be valuable if a person habitually does not remember to
+save versions of his/ her code but such periodic commits may not represent clear
+steps or 'logical changes' in the code. For building a commit history that
+represents logical changes, manual commits provide a greater advantage.
+
+I think because it is unlikely to have documents on google drive or drop box
+that are interrelated or dependent on each other. On the other hand, we may have
+different files of code that are building blocks of the same program and hence
+have some inter dependence.
+
+Git log can help programmers to identify the particular commits they are looking
+for with the help of the commit messages. Later once the id's for the commits
+are known the diff command can be used to identify specific changes (i.e.
+additions and deletions)
+
+Version control can make us more confident about making changes because even if
+we fuck we can checkout previous repositories and commits and check where we
+exactly screwed up.
+
+I want to commit changes as I make logical changes to my code. With Git, I can
+be more of a risk taker and ca confidently make major changes to my code without
+the fear of losing my previous work.   

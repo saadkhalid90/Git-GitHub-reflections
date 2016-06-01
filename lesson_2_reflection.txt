@@ -1,0 +1,2 @@
+We initialize a git repository so that we can track the changes made to the set
+of files within the directory. 
