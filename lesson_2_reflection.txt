@@ -11,3 +11,10 @@ Staging area can be used to stage only the changes we want to commit even if we
 have made more than one change in different files within our working directory. 
 So, this can help us make one commit per logical change
 
+Possibly, if we want to create different versions of the same original project, 
+we can update changes on different branches
+
+Git branch diagrams can help us visualize the commits and their relations to 
+other commits (whether the commits are parents or branches etc). We can trance 
+the reachable commits (which are displayed by the git log command)
+
