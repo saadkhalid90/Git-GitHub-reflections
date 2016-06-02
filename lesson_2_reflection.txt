@@ -18,3 +18,7 @@ Git branch diagrams can help us visualize the commits and their relations to
 other commits (whether the commits are parents or branches etc). We can trance 
 the reachable commits (which are displayed by the git log command)
 
+adding random shit in the test branch —
+
+now reverting back to master to test the git log graphing feature
+
