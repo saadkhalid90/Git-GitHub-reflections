@@ -22,3 +22,7 @@ adding random shit in the test branch —
 
 now reverting back to master to test the git log graphing feature
 
+Automatic merge is convenient but on the other hand can be problematic if there are conflicts within the branches being merged. Manual mergers on the other hand may be slightly annoying but can solve problems related to conflicts as they can be manually 
+dealt with
+ 
+
